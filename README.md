@@ -1,4 +1,4 @@
-Audio-file-screener
+Audio-File-Scrutinizer
 ===================
 
 +++
@@ -7,7 +7,7 @@ AFS
 
 -------------------------------------------------------------
 Description:
-browser add-on/plugin ui -- youtube -- $5 suggested shareware
+Browser Add-on/Plugin UI -- Youtube -- $5 suggested shareware
 -------------------------------------------------------------
 
 Greetings, program!
